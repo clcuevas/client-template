@@ -1,0 +1,28 @@
+/* Only for globals */
+body {
+  margin: 0;
+}
+
+html,
+body {
+  height: 100% !important;
+}
+
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+div,
+button,
+a {
+  font-family: 'Roboto', 'Arial', sans-serif !important;
+}
+
+li {
+  list-style: none;
+}
